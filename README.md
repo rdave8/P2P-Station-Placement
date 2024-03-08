@@ -25,5 +25,5 @@ pip install -r requirements.txt
 ```
 
 ```
-python ProblemInstance.py --num_residents [0+] --mpsd 5 --threshold [0-1] --resident_distribution [uniform/normal] --std_dev [None/0+] --seed [None/0+]
+python ProblemInstance.py --num_residents [0+] --mpsd [0+] --threshold [0-1] --resident_distribution [uniform/normal] --std_dev [None/0+] --seed [None/0+]
 ```
